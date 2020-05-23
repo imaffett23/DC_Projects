@@ -1,2 +1,2 @@
 # DC_Projects
-A collection of projects I have completed through DataCamp.
+A collection of projects I have completed through DataCamp.  These projects required skills (both basic and advanced) central to the data science work flow and allowed me to further my studies in a practical and applied setting.
